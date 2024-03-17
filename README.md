@@ -7,7 +7,7 @@ CrickInformer is a web application designed to provide users with live cricket m
 
 - Live Match Updates: CrickInformer offers real-time updates on ongoing cricket matches, including live scores, ball-by-ball commentary, and match statistics.
 - Past Match Data: Users can access detailed information about past cricket matches, including match results, player performances, and highlights.
-- Point Table Building: The application provides dynamic point tables for various cricket tournaments, allowing users to track team standings, net run rates, and other relevant statistics.
+- Point Table Building: The application provides dynamic point tables for various cricket tournaments, allowing users to track team standings, net run  rates, and other relevant statistics.
 - Responsive Design: The frontend interface is designed to be responsive, ensuring a seamless user experience across different devices and screen sizes.
 
 # Technologies Used
